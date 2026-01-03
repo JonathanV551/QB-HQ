@@ -36,16 +36,6 @@ Some of the metrics analyzed include:
 - Touchdown & Interception Rates
 - Pressure, sack, and blitz-related metrics
 - Opposing defense efficiency indicators
+  
 
----
-
-## 🛠️ Tech Stack
-- **Python**
-- **Pandas / NumPy**
-- **Matplotlib / Seaborn**
-- **Jupyter Notebooks**
-- (Optional) Scikit-learn for modeling
-
----
-
-## 📂 Project Structure
+Please note that this README file was made using generative AI by my request 😁
